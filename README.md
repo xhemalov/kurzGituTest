@@ -1,0 +1,2 @@
+# kurzGituTest
+Pokus hokus repozitář
